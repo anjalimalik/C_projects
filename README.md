@@ -1,2 +1,2 @@
-# c_projects
+# c-projects
 Programs coded in C language
